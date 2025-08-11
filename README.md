@@ -3,7 +3,7 @@ ProtoType X Logo
 
 Copyright © 2025 RubiCon Media. All Rights Reserved.
 
-![Alt text](images/your-image.png)
+![Alt text](https://github.com/RubiconMedia/ProtoType-X/blob/main/programs.jpg?raw=true)
 
 [![Version](https:Location: Norway Specialization: Desktop Applications, UI/UX, Creative Software
 
