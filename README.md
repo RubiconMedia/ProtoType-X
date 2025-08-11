@@ -25,3 +25,9 @@ Designed for Professionals—and Those Who Aspire to Be
 Whether you're an experienced designer or just starting out, ProtoType X empowers you to create with precision and creative freedom. Its intuitive layout and built-in guidance help you get started quickly and grow your skills over time.
 
 ![Alt text](https://github.com/RubiconMedia/ProtoType-X/blob/main/Skjermbilde%202025-08-11%20182228.png?raw=true)
+
+Developer Information
+Head Developer: Tobias Østen
+Company: RubiCon Media
+Website: www.rubiconmedia.no
+Contact Email: Tobias@rubiconmedia.no
