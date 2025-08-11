@@ -23,3 +23,5 @@ Built as a native Windows application, ProtoType X takes full advantage of syste
 - Seamless integration with Windows features like file management and shortcuts
 Designed for Professionals—and Those Who Aspire to Be
 Whether you're an experienced designer or just starting out, ProtoType X empowers you to create with precision and creative freedom. Its intuitive layout and built-in guidance help you get started quickly and grow your skills over time.
+
+![Alt text](https://raw.githubusercontent.com/RubiconMedia/ProtoType-X/refs/heads/main/ProtoType%20X.webp)
